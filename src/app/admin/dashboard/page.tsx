@@ -21,7 +21,7 @@ const Dashboard = () => {
         }
         options={{
           ...MuiTblOptions(),
-          exportMenu: [],
+         
           search: true,
         }}
         columns={[
